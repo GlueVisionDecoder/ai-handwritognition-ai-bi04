@@ -1,4 +1,4 @@
-# 
+# Exclusivo AI Handwriting Recognition herramientas. Con procesamiento de lenguaje natural y redes neuronales — optimizado para el máximo rendimiento.
 
 
 
